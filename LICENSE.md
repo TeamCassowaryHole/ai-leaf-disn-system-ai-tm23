@@ -1,4 +1,4 @@
-# 
+# Meilleur AI leaf disease detection system flux de travail. Avec augmentation des données et IA de bord — optimisé pour des performances maximales.
 
 
 
